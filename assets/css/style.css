@@ -6,7 +6,7 @@ html {
 
 body{
     /* BG IMAGE, MOBILE-FIRST SIZING */
-    background: url("../images/keys.jpg") center top no-repeat;
+    background: url("../images/keys.jpg") center top no-repeat fixed;
     background-size: 300%;
     /* ROOM FOR FOOTER */
     margin-bottom: 50px;
